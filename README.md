@@ -21,3 +21,10 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
+
+
+**20 Juni 2021*
+ * Belajar konsep OOP untuk mempermudah pengembangan sebuah program
+ * Belajar class yang sering digunakan dalam bahasa java
+ * Berlatih dengan program untuk menghitung suhu air
+ * Mengerjakan ujian akhir untuk menilai kemahiran diri
